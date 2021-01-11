@@ -1,6 +1,6 @@
 # fireworks-in-Python-
 ![Python Logo](https://raw.githubusercontent.com/willtheorangeguy/Python-Logo-Widgets/master/pythonlogogif.gif)
-Python Turtle Graphics....!
+Python Fireworks Pygame Graphics....!
 ### Requirements
 ```
 Python3
